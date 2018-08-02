@@ -14,8 +14,8 @@
     </parent>
     <profiles>
        <profile>
+           <id>sonar</id>
            <properties>
-              <id>sonar</id>
               <sonar.host.url>http://ec2-18-188-223-12.us-east-2.compute.amazonaws.com:9000</sonar.host.url>
            </properties>   
        </profile>
